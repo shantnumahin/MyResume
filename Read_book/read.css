@@ -1,0 +1,31 @@
+fieldset{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    margin: 0px;
+    margin-bottom: 2px;
+}
+.coments textarea {
+    
+    height: 100px;
+    width: 50%;
+}
+@media (max-width:576px) {
+    fieldset{
+        width: 30%;
+        text-align: center;
+        margin: auto;
+    }
+    .images{
+        height: 440px;
+        width: 470px;
+    }
+}
